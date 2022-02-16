@@ -1,6 +1,6 @@
 <img alt="banner" src="https://res.cloudinary.com/djz27k5hg/image/upload/v1645005392/Personal/molecule_banner_o2ykl5.png">
 
-<h1 align="center">Hi 👋, I'm Rui Ribeiro 👨🏻‍💻</h1>
+<h1 align="center">Ciao! 👋, I'm Rui 👨🏻‍💻</h1>
 <h3 align="center">A passionate computational biochemist from Portugal</h3>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/bbf0e67a43c4ed45070d77d10c920e52/tumblr_nygxna9kNY1s5f7v4o1_1280.gif">
 
@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **ruipedrofr@gmail.com**
 
-- 📄 Know about my experiences **on [LinkedIn](https://www.linkedin.com/in/ruifribeiro/)**
+- 📄 Know about my experiences **on [LinkedIn](https://www.linkedin.com/in/ruifribeiro/) or [ResearchGate](https://www.researchgate.net/profile/Rui-Pedro-Ribeiro)**
+
+- ⚡ Fun fact **I love languages 🇵🇹🇮🇹🇬🇧🇫🇷🇩🇪🇪🇸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
