@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/rribeiro_sci" target="blank"><img src="https://img.shields.io/twitter/follow/rribeiro_sci?logo=twitter&style=for-the-badge" alt="rribeiro_sci" /></a> </p>
 
-- 🧬 I’m currently working on [Structural Systems Pharmacology](https://www.fz-juelich.de/ias/ias-5/EN/RossettiLab/Research/HBP/SSB/_node.html).
+- 🧬 I’m currently working on **identifying novel therapeutic agents for neuroinflammation targets.**
 
 - 🤝 I’m currently collaborating **on the development of bioinformatics tools.**
 
-- 🌱 I’m currently learning **ML/DL applied to Drug Design.**
+- 🌱 I’m currently learning **Quantum Deep Learning applied to Drug Design.**
 
 - 💬 Ask me about **Computational Biology, Cheminformatics, or science in general. 🔭🔬**
 
